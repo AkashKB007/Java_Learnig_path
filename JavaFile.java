@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Concatenation_of_Array {
 
 	public static void main(String[] args) {
-//		int[] arr = {1,2,1}
+		int[] arr = {1,2,1}
 //		System.out.println(Arrays.toString(getConcatenation(arr)));
 		
 		
