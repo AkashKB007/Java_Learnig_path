@@ -1,8 +1,20 @@
 # Java_Learnig_path
 ## Functions
-1.Arrays.toString()  
-2.Integer.toString() is used to convert int to string.
+import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+1.Arrays.toString(int[])  
+2.Integer.toString(int) is used to convert int to string.
 3. return new int[]{i,j} is used to return new array.
 4. ArrayList<Integer> list = new ArrayList<>()  , In List datatype should start from Capital.
-  5.
+  4.1 list.add(index,value)
+  4.2 list.get(index)
+  4.3 list.set(index,value) to replace value at that index
+  4.3 list.size()
+5. ArrayList<Boolean> list = new ArrayList<>() 
+6. arr.length  for Arrays to find the length
+7. str.length() for String length
+    
   
