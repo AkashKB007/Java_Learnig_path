@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 
 1.Arrays.toString(int[])  
+1.1 Arrays.sort(arr);  sorts in ascending order
 2.Integer.toString(int) is used to convert int to string.
 
 3. return new int[]{i,j} is used to return new array.
