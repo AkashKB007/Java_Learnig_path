@@ -18,5 +18,8 @@ import java.util.Scanner;
 5. ArrayList<Boolean> list = new ArrayList<>() 
 6. arr.length  for Arrays to find the length
 7. str.length() for String length
-    
+
+  
+##Rule for natural numbers sum 
+  Sum of natural no upto N is (N*(N+1))/2
   
