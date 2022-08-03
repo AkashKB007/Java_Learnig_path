@@ -23,3 +23,6 @@ import java.util.Scanner;
 ## Rule for natural numbers sum 
   Sum of natural no upto N is (N*(N+1))/2
   
+## Binary Search
+  mid = low+(high-low)/2
+  
